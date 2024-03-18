@@ -1,4 +1,7 @@
-# Dented-Mods
-General repository for Minecraft mods by Dented Modding
+###Minecraft mods by Dented Modding
+
+[View our mods on Modrinth](https://modrinth.com/user/dentedleft)
+
+If you have an bug report or feature request regarding a mod or documentation, open a new [issue](https://github.com/DentedLeft/Dented-Modding/issues).
 
 Be sure to indicate which mod your issue applies to when posting.
