@@ -1,4 +1,4 @@
-###Minecraft mods by Dented Modding
+### Minecraft mods by Dented Modding
 
 [View our mods on Modrinth](https://modrinth.com/user/dentedleft)
 
