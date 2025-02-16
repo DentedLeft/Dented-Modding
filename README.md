@@ -1,6 +1,6 @@
 ### Minecraft mods by Dented Modding
 
-[View our mods on Modrinth](https://modrinth.com/user/dentedleft)
+[View our mods on Modrinth](https://modrinth.com/organization/dented-modding)
 
 If you have an bug report or feature request regarding a mod or documentation, open a new [issue](https://github.com/DentedLeft/Dented-Modding/issues).
 
